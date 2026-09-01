@@ -1,0 +1,16 @@
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\bin\Debug\net10.0-windows\SISPADOCA.exe
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\bin\Debug\net10.0-windows\SISPADOCA.deps.json
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\bin\Debug\net10.0-windows\SISPADOCA.runtimeconfig.json
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\bin\Debug\net10.0-windows\SISPADOCA.dll
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\bin\Debug\net10.0-windows\SISPADOCA.pdb
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.csproj.GenerateResource.cache
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.AssemblyInfoInputs.cache
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.AssemblyInfo.cs
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.csproj.CoreCompileInputs.cache
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.dll
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\refint\SISPADOCA.dll
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.pdb
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.genruntimeconfig.cache
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\ref\SISPADOCA.dll
+D:\JOSÉ AFONSO\DS1\SISPADOCA projeto\SISPADOCA\SISPADOCA\obj\Debug\net10.0-windows\SISPADOCA.FrmPrincipal.resources
