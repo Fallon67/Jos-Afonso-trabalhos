@@ -1,0 +1,38 @@
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\bin\Debug\net10.0-windows\Estruturas.exe
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\bin\Debug\net10.0-windows\Estruturas.deps.json
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\bin\Debug\net10.0-windows\Estruturas.runtimeconfig.json
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\bin\Debug\net10.0-windows\Estruturas.dll
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\bin\Debug\net10.0-windows\Estruturas.pdb
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.frmCadastro.resources
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.frmPrincipal.resources
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.Properties.Resources.resources
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.csproj.GenerateResource.cache
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.AssemblyInfoInputs.cache
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.AssemblyInfo.cs
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.sourcelink.json
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.dll
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\refint\Estruturas.dll
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.pdb
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\Estruturas.genruntimeconfig.cache
+C:\Users\alunoetec\Desktop\estruturas.Net\Estruturas\obj\Debug\net10.0-windows\ref\Estruturas.dll
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\bin\Debug\net10.0-windows\Estruturas.exe
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\bin\Debug\net10.0-windows\Estruturas.deps.json
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\bin\Debug\net10.0-windows\Estruturas.runtimeconfig.json
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\bin\Debug\net10.0-windows\Estruturas.dll
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\bin\Debug\net10.0-windows\Estruturas.pdb
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.frmCadastro.resources
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.frmPrincipal.resources
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.Properties.Resources.resources
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.csproj.GenerateResource.cache
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.AssemblyInfoInputs.cache
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.AssemblyInfo.cs
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.sourcelink.json
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.dll
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\refint\Estruturas.dll
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.pdb
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\Estruturas.genruntimeconfig.cache
+C:\Users\alunoetec\Desktop\estruturas.Net - Copia\Estruturas\obj\Debug\net10.0-windows\ref\Estruturas.dll
